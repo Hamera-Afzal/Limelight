@@ -1,0 +1,152 @@
+.upper p{
+    color: lightslategray;
+    text-align: center;
+}
+.main{
+    background-color: black;
+    color: white;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.left-main{    
+    padding-left: 10px;
+}
+.midd-main img{
+    width: 200px;
+}
+.right-main img{
+    width: 50px;
+    height: 50px;
+}
+.lower{
+    background-color: lightgoldenrodyellow;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.left-low img{
+    width: 45px;
+    height: 45px;
+}
+.midd-low{
+   display: flex; 
+   gap: 40px;
+}
+.right-low{
+    font-size: 25px;
+    padding-top: 9px;
+}
+.slide{
+    font-size: 35px;
+    text-align: center;
+}
+.slide img{
+    width: 100%;
+}
+.circle{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.circle img{
+    width: 250px;
+    border-radius: 50%;  
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom : 30px;
+}
+.butt{
+    margin-right: 50px;
+    cursor: pointer;
+    padding: 20px 40px;
+    border: none;
+    cursor: pointer;
+    font-size:20px ;
+    border-radius: 10px;
+}
+.heading{
+    text-align: center;
+}
+.arrivals{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.S-M-button{
+    margin-top: 30px;
+    text-align: center;
+}
+.S-M{
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 10px;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.U-footer{
+    display: flex;
+    justify-content: space-around;
+}
+.L-footer p{
+    line-height: 27px;   
+}
+.R-footer{
+    line-height: 27px;
+}
+.B-fotter {
+    display: flex;
+    justify-content: center;
+}
+.FIY img{
+    width: 50px;
+    height: 50px;
+    margin-right: 40px;
+}
+.accept{
+    text-align: center;
+    font-size: 25px;
+}
+.visa{
+    display: flex;
+    justify-content: center;
+}
+.copy{
+    text-align: center;
+    margin-top: 20px;
+}
+.women{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    width: 100%;
+    
+}
+.women h2{
+    font-size: 17px;
+}
+.girls{
+    display: flex;
+    justify-content: space-between;
+}
+.men{
+    display: flex;
+    justify-content: space-between;
+}
+.accessories{
+    display: flex;
+    justify-content: space-between;
+}
+.sale{
+    display: flex;
+    justify-content: space-between;
+}
+
